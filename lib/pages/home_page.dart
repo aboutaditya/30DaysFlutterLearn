@@ -13,7 +13,7 @@ class Home extends StatelessWidget {
           child: Text("This is my app with $days"),
         ),
       ),
-      drawer: Drawer(),
+      drawer: const Drawer(),
     );
   }
 }
