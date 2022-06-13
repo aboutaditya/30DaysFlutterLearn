@@ -1,0 +1,33 @@
+{
+    "product":[
+        {
+            "name":"iPhone 11",
+            "id":1,
+            "desc":"Apple 11th generation iPhone",
+            "price":699,
+            "iurl":"https://store.storeimages.cdn-apple.com/4982/as-images.apple.com/is/iphone11-black-select-2019?wid=940&hei=1112&fmt=png-alpha&.v=1566956144418"
+
+        },
+        {
+            "name":"iPhone 12",
+            "id":2,
+            "desc":"Apple 12th generation iPhone",
+            "price":999,
+            "iurl":"https://www.reliancedigital.in/medias/Apple-iPhone12-Smartphones-491901533-i-1-1200Wx1200H-300Wx300H?context=bWFzdGVyfGltYWdlc3wzOTEzMXxpbWFnZS9qcGVnfGltYWdlcy9oMGEvaGI0Lzk2NzYzMjUxNTg5NDIuanBnfDdjN2QxMjg2ZTgyZTlkYTcxZTA2YjdlNGZiNDEzMWU3ZTQ5MWE0MjI2MjdlZWYyYjkxNjhhMzZhOTFmODdkODU"
+        },{
+            "name":"iPhone 12 Pro",
+            "id":3,
+            "desc":"Apple 12th generation Pro iPhone",
+            "price":1299,
+            "iurl":"https://m.media-amazon.com/images/I/71MHTD3uL4L.jpg"
+        
+        },{
+            "name":"Google Pixel 6",
+            "id":4,
+            "desc":"Google's 6th Generation Pixel Device",
+            "price":999,
+            "iurl":"https://m.media-amazon.com/images/I/716n8eAia+L._SL1500_.jpg"
+        
+        }
+    ]
+}
